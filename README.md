@@ -33,7 +33,6 @@
   
   ```javascript
     const 변수명 = () => {}
-    
   ```
   
   
